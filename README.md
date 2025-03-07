@@ -18,39 +18,12 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 4. US3: As a safety officer, I want to monitor the machine in case of false trigger, so that I know whether the machine ready or not.
 
 # Features
-Core Features
 Motion Detection:
-
 The PIR sensor detects motion in the hazardous zone around the machine.
 
-Feature: Real-time monitoring of the hazardous area.
-
 Visual Alert System:
-
 An LED indicator turns on when motion is detected in the hazardous zone.
 
-Feature: Immediate visual feedback for workers and supervisors.
-
 False Trigger Prevention:
+The system differentiates between valid motion (e.g., a worker) and false triggers.
 
-The system differentiates between valid motion (e.g., a worker) and false triggers (e.g., small animals or environmental changes).
-
-Feature: Ensures reliability and reduces unnecessary alerts.
-
-Machine Status Indicator:
-
-A visual or audible indicator shows whether the machine is operational or stopped.
-
-Feature: Helps supervisors quickly identify machine status.
-
-Real-Time Monitoring:
-
-The system provides real-time data to safety officers for monitoring and analysis.
-
-Feature: Enables proactive safety management.
-
-Alert Logging:
-
-The system logs all alerts (e.g., motion detected, machine stopped) for future review.
-
-Feature: Helps safety officers analyze incidents and improve safety protocols.
