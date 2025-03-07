@@ -1,6 +1,6 @@
 # ICT720_RTN_Project2025
 
-# Topic: Automatic Machine Stop System for Workplace Safety  
+# Topic: Automatic Alert System for Workplace Safety  
 
 # Group Member:                           
 1. Puncharus Phongphitthongchai         ID: 6714552246
