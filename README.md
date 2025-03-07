@@ -13,3 +13,5 @@
 3. US3: As a safety officer, I want to monitor the machine in case of false trigger, so that I know whether the machine ready or not.
 
 
+# Scopes
+# 
