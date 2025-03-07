@@ -22,5 +22,5 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 # Features
 - Motion Detection: The PIR sensor detects motion in the hazardous zone around the machine.
 - Visual Alert System: An LED indicator turns on when motion is detected in the hazardous zone.
-- False Trigger Prevention: The system differentiates between valid motion (e.g., a worker) and false triggers.
+- The system provides real-time data to safety officers for monitoring and analysis.
 
