@@ -17,4 +17,16 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 3. US2: As a supervisor, I want a visual indicator to show when the machine is stopped so that I can quickly identify the issue.
 4. US3: As a safety officer, I want to monitor the machine in case of false trigger, so that I know whether the machine ready or not.
 
+# Features
+Core Features (Basic Functionality)
+1. Motion Detection & Alert
 
+PIR sensor detects worker presence near hazardous areas.
+LED indicator turns on when motion is detected.
+
+
+ESP32-S3 + M5Stick monitors whether the machine is active or stopped.
+Supervisors can see the real-time status.
+2. False Trigger Handling
+
+Implement a time delay or threshold to avoid unnecessary alarms.
