@@ -6,7 +6,6 @@
 1. Puncharus Phongphitthongchai         ID: 6714552246
 2. Panharith Chhom                      ID: 6722040760
 3. Piyapach Singto                      ID: 6722040323
-4.
 
 # User Stories
 1. US1: As a worker, I want the machine to stop automatically when I enter a dangerous area so that I can avoid accidents.
