@@ -14,7 +14,7 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 
 ## Stakeholder
 1. Worker
-2. Factory Owner
+
    
 ## User Stories
 1. US1: As a worker, I want the alert to turn on automatically when I enter a dangerous zone so that I can avoid accidents.
