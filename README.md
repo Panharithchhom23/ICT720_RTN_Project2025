@@ -11,6 +11,10 @@
 ## Objective
 This project aims to enhance workplace safety by installing a Passive Infrared Sensor (PIR) motion sensor on the safety guard of a machine. If a worker enters the hazardous area, the system will alert the LED to show that the worker is in a dangerous area  to prevent accidents.
 
+##Stakeholder
+1. Worker
+2. Factory Owner
+   
 ## User Stories
 1. US1: As a worker, I want the alert to turn on automatically when I enter a dangerous zone so that I can avoid accidents.
 3. US2: As a supervisor, I want a visual indicator to show when the machine is stopped so that I can quickly identify the issue.
@@ -24,8 +28,11 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 
 ### Hardware
 
+# 1. M5StickC
+![image](https://github.com/user-attachments/assets/7f0985f2-6643-460d-b90f-8aaab5665339)
 
-M5StickC
+M5StickC ESP32-PICO Mini IoT Development Kit
+  - https://shop.m5stack.com/products/stick-c?variant=43982750843137
 
 ### Overview
 
