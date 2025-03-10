@@ -24,3 +24,5 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 - Visual Alert System: An LED indicator turns on when motion is detected in the hazardous zone.
 - Real-Time Monitoring: The system provides real-time data to safety officers for monitoring and analysis.
 
+
+
