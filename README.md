@@ -12,7 +12,7 @@
 ## Objective
 This project aims to enhance workplace safety by installing a Passive Infrared Sensor (PIR) motion sensor on the safety guard of a machine. If a worker enters the hazardous area, the system will alert the LED to show that the worker is in a dangerous area  to prevent accidents.
 
-##Stakeholder
+## Stakeholder
 1. Worker
 2. Factory Owner
    
