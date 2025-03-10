@@ -23,6 +23,7 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 ### Sequence Diagram
 
 ### Hardware
+M5StickC
 
 ### Overview
 
