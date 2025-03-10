@@ -1,4 +1,4 @@
-# ICT720_RTN_Project2025
+# ICT720_RTN_Project-2025
 
 # Topic: Automatic Alert System for Workplace Safety  
 ![image](https://github.com/user-attachments/assets/17b39e83-2133-4191-a889-b91b08b585b0)
