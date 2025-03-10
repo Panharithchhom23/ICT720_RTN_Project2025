@@ -6,7 +6,8 @@
 3. Piyapach Singto                      ID: 6722040323
 
 ## Topic: Automatic Alert System for Workplace Safety  
-![image](https://github.com/user-attachments/assets/17b39e83-2133-4191-a889-b91b08b585b0)
+![image](https://github.com/user-attachments/assets/e7d1788b-92bd-4da4-a9ca-c9210c34724c)
+
 
 ## Objective
 This project aims to enhance workplace safety by installing a Passive Infrared Sensor (PIR) motion sensor on the safety guard of a machine. If a worker enters the hazardous area, the system will alert the LED to show that the worker is in a dangerous area  to prevent accidents.
