@@ -17,10 +17,10 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 2. Supervisor
 3. Safety Officer 
    
-## User Stories
-1. US1: As a worker, I want the alert to turn on automatically when I enter a dangerous zone so that I can avoid accidents.
-3. US2: As a supervisor, I want a visual indicator to show when the machine is stopped so that I can quickly identify the issue.
-4. US3: As a safety officer, I want to monitor the machine in case of false trigger, so that I know whether the machine ready or not.
+## User Stories (US)
+- US1: As a worker, I want the alert to turn on automatically when I enter a dangerous zone so that I can avoid accidents.
+- US2: As a supervisor, I want a visual indicator to show when the machine is stopped so that I can quickly identify the issue.
+- US3: As a safety officer, I want to monitor the machine in case of false trigger, so that I know whether the machine ready or not.
 
 ## Software Models
 ### System Diagram 
