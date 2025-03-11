@@ -22,6 +22,11 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 - US2: As a supervisor, I want a visual indicator to show when the machine is stopped so that I can quickly identify the issue.
 - US3: As a safety officer, I want to monitor the machine in case of false trigger, so that I know whether the machine ready or not.
 
+## Features
+- Motion Detection: The PIR sensor detects motion in the hazardous zone around the machine.
+- Visual Alert System: An LED indicator turns on when motion is detected in the hazardous zone.
+- Real-Time Monitoring: The system provides real-time data to safety officers for monitoring and analysis.
+
 ## Software Models
 ### System Diagram 
 ![image](https://github.com/user-attachments/assets/213c97a6-a290-46cf-ba8e-db96a8d0d225)
@@ -45,10 +50,6 @@ M5StickC ESP32-PICO Mini IoT Development Kit
 
 ### Data Modeling
 
-## Features
-- Motion Detection: The PIR sensor detects motion in the hazardous zone around the machine.
-- Visual Alert System: An LED indicator turns on when motion is detected in the hazardous zone.
-- Real-Time Monitoring: The system provides real-time data to safety officers for monitoring and analysis.
 
 ## Monitoring Alert
 
