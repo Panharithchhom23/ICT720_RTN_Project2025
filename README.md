@@ -32,6 +32,7 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 
 # 1. M5StickC
 ![image](https://github.com/user-attachments/assets/7f0985f2-6643-460d-b90f-8aaab5665339)
+
 M5StickC ESP32-PICO Mini IoT Development Kit
   - https://shop.m5stack.com/products/stick-c?variant=43982750843137
     
