@@ -6,7 +6,7 @@
 3. Piyapach Singto                      ID: 6722040323
 
 ## Topic: Automatic Alert System for Workplace Safety  
-![image](https://github.com/user-attachments/assets/7e7898b2-b2ad-42e5-b3d2-2c37618a84dd)
+![image](https://github.com/user-attachments/assets/b3621ab8-00a4-4f06-bab7-0638c9aaf610)
 
 
 ## Objective
