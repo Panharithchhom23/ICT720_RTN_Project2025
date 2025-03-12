@@ -29,7 +29,8 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 
 ## Software Models
 ### System Diagram 
-![image](https://github.com/user-attachments/assets/213c97a6-a290-46cf-ba8e-db96a8d0d225)
+![image](https://github.com/user-attachments/assets/0c9c5bcb-96dd-4ca3-88c7-c4d724aba9e6)
+
 
 ### Sequence Diagram
 
