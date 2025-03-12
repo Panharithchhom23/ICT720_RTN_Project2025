@@ -49,6 +49,7 @@ M5StickC ESP32-PICO Mini IoT Development Kit
 ### Connectivity
 
 ### Data Modeling
+![image](https://github.com/user-attachments/assets/81323ee0-0fb4-4050-abc3-ef92a3ee230a)
 
 
 ## Monitoring Alert
