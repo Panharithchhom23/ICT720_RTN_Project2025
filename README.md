@@ -8,7 +8,6 @@
 ## Topic: Automatic Alert System for Workplace Safety  
 ![image](https://github.com/user-attachments/assets/b3621ab8-00a4-4f06-bab7-0638c9aaf610)
 
-
 ## Objective
 This project aims to enhance workplace safety by installing a Passive Infrared Sensor (PIR) motion sensor on the safety guard of a machine. If a worker enters the hazardous area, the system will alert the LED to show that the worker is in a dangerous area  to prevent accidents.
 
@@ -28,9 +27,9 @@ This project aims to enhance workplace safety by installing a Passive Infrared S
 - Real-Time Monitoring: The system provides real-time data to safety officers for monitoring and analysis.
 
 ## Software Models
+
 ### System Diagram 
 ![image](https://github.com/user-attachments/assets/0c9c5bcb-96dd-4ca3-88c7-c4d724aba9e6)
-
 
 ### Sequence Diagram
 
