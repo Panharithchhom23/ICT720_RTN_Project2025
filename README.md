@@ -53,8 +53,8 @@ The system consists of multiple interconnected components that work together to 
 # 1. M5StickC
 ![image](https://github.com/user-attachments/assets/7f0985f2-6643-460d-b90f-8aaab5665339)
 
-M5StickC ESP32-PICO Mini IoT Development Kit
-  - https://shop.m5stack.com/products/stick-c?variant=43982750843137
+M5StickC is a mini M5Stack, powered by ESP32. It is a portable, easy-to-use, open source, IoT development board. What it can do? This tiny block is able to realize your idea, enlighten your creativity, and help with your IoT prototyping in a very short time. It will take away a lot of pains from the development process.M5stickC is one of the core devices in M5Stack product series.
+Link:  https://shop.m5stack.com/products/stick-c?variant=43982750843137
     
 # 2. M5StickC PIR Hat
 ![image](https://github.com/user-attachments/assets/5fd6d676-ee6e-4539-bf4b-e3fe0b94dc2f)
