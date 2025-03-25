@@ -1,9 +1,8 @@
 # ICT720_RTN_Project_2025
 
 ## Group Member:                           
-1. Puncharus Phongphitthongchai         ID: 6714552246
-2. Panharith Chhom                      ID: 6722040760
-3. Piyapach Singto                      ID: 6722040323
+![image](https://github.com/user-attachments/assets/8915c331-8ed8-48f0-a2b3-235a03791f00)
+
 
 ## Topic: Automatic Alert System for Workplace Safety  
 Workplace safety is a critical concern in industrial environments where heavy machinery poses risks to workers. Ensuring a safe workspace requires proactive measures to detect potential hazards and alert workers before accidents occur. This project introduces an automated safety system that utilizes a Passive Infrared Sensor (PIR) to monitor movement around a machine’s safety guard. By providing real-time visual alerts and monitoring capabilities, the system aims to enhance workplace safety and reduce injury risks.
