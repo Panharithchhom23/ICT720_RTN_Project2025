@@ -48,8 +48,6 @@ The system consists of multiple interconnected components that work together to 
 
 
 
-### Sequence Diagram
-
 ### Hardware
 
 # 1. M5StickC
@@ -61,21 +59,19 @@ M5StickC ESP32-PICO Mini IoT Development Kit
 # 2. M5StickC PIR Hat
 ![image](https://github.com/user-attachments/assets/5fd6d676-ee6e-4539-bf4b-e3fe0b94dc2f)
 
-### Overview
-
-### Connectivity
 
 ### Data Modeling
 ![image](https://github.com/user-attachments/assets/fefe4e16-a9e2-462b-9caf-dbe8ebac99f6)
 
 
-
+## Monitoring Alert
 https://github.com/user-attachments/assets/fcb31c3b-0d83-4a74-b675-5f2fbc80f5de
 
+# Telegram Notification
+![S__21733396](https://github.com/user-attachments/assets/4e93aa3b-3fb6-49a8-a26e-d902e4e9f1ff)
 
 
 
-## Monitoring Alert
 
 
 
