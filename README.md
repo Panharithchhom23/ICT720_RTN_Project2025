@@ -33,7 +33,8 @@ This project aims to enhance workplace safety by integrating a Passive Infrared 
 ## Software Models
 
 ### System Diagram 
-![image](https://github.com/user-attachments/assets/0c9c5bcb-96dd-4ca3-88c7-c4d724aba9e6) 
+![image](https://github.com/user-attachments/assets/3ea5552b-59f4-4dc1-af64-419a87b9fac3)
+
 
 The system consists of multiple interconnected components that work together to detect motion and provide alerts. The key components include:
 - ESP32-S3 (Main Controller): Acts as the central processing unit, receiving motion data from the PIR sensor and sending it to the appropriate alert mechanisms.
