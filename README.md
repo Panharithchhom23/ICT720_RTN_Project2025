@@ -27,7 +27,7 @@ This project aims to enhance workplace safety by integrating a Passive Infrared 
 
 ## Features
 - Motion Detection: The PIR sensor detects motion in the hazardous zone around the machine.
-- Visual Alert System: An LED indicator turns RED and show word "NOT SAFE" when motion is detected in the hazardous zone.
+- Visual Alert System: An LED indicator turns RED and show word "NOT SAFE" when motion is detected in the hazardous zone and LED screen turns GREEN and show word "SAFE" when motion is not detected.
 - Real-Time Monitoring: The system provides real-time data to safety officers for monitoring and analysis.
 
 ## Software Models
