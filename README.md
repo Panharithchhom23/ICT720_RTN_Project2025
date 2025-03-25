@@ -54,6 +54,7 @@ The system consists of multiple interconnected components that work together to 
 ![image](https://github.com/user-attachments/assets/7f0985f2-6643-460d-b90f-8aaab5665339)
 
 M5StickC is a mini M5Stack, powered by ESP32. It is a portable, easy-to-use, open source, IoT development board. What it can do? This tiny block is able to realize your idea, enlighten your creativity, and help with your IoT prototyping in a very short time. It will take away a lot of pains from the development process.M5stickC is one of the core devices in M5Stack product series.
+
 Link:  https://shop.m5stack.com/products/stick-c?variant=43982750843137
     
 # 2. M5StickC PIR Hat
