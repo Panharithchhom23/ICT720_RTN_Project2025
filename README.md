@@ -68,7 +68,8 @@ M5StickC ESP32-PICO Mini IoT Development Kit
 https://github.com/user-attachments/assets/fcb31c3b-0d83-4a74-b675-5f2fbc80f5de
 
 ### Telegram Notification
-![S__21733396](https://github.com/user-attachments/assets/4e93aa3b-3fb6-49a8-a26e-d902e4e9f1ff)
+![image](https://github.com/user-attachments/assets/9b5e1f3b-6392-4d6b-8ca6-88d50f97e9e5)
+
 
 
 
