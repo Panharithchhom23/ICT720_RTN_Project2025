@@ -8,7 +8,8 @@
 ## Topic: Automatic Alert System for Workplace Safety  
 Workplace safety is a critical concern in industrial environments where heavy machinery poses risks to workers. Ensuring a safe workspace requires proactive measures to detect potential hazards and alert workers before accidents occur. This project introduces an automated safety system that utilizes a Passive Infrared Sensor (PIR) to monitor movement around a machine’s safety guard. By providing real-time visual alerts and monitoring capabilities, the system aims to enhance workplace safety and reduce injury risks.
 
-![image](https://github.com/user-attachments/assets/590ad8b1-f14c-452b-978a-75e20cda558f)
+![image](https://github.com/user-attachments/assets/1444af24-c048-4244-a92a-c2dabd568507)
+
 
 
 ## Objective
