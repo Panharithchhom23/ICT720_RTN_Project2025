@@ -70,7 +70,7 @@ https://github.com/user-attachments/assets/fcb31c3b-0d83-4a74-b675-5f2fbc80f5de
 ### Telegram Notification
 ![image](https://github.com/user-attachments/assets/9b5e1f3b-6392-4d6b-8ca6-88d50f97e9e5)
 
-
+<img src="![S__21733396](https://github.com/user-attachments/assets/79727f46-5dd5-4db4-ac96-63afb92a1682)" width=50% height=50%>
 
 
 
