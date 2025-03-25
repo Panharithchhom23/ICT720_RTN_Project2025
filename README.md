@@ -16,9 +16,9 @@ Workplace safety is a critical concern in industrial environments where heavy ma
 This project aims to enhance workplace safety by integrating a Passive Infrared Sensor (PIR) motion sensor with a machine’s safety guard. If a worker enters the hazardous area, the system will trigger an LED alert, notifying both the worker and safety personnel. This proactive warning system helps prevent accidents by ensuring that workers remain aware of their proximity to dangerous zones. 
 
 ## Stakeholder
-1. Worker
-2. Supervisor
-3. Safety Officer 
+- Worker         : Employees who operate or work near the machine and are at risk of entering hazardous areas.
+- Supervisor     : Responsible for overseeing machine operations and ensuring workplace safety compliance.
+- Safety Officer : Monitors the overall safety system and responds to potential hazards or false alarms.
    
 ## User Stories (US)
 - US1: As a worker, I want the alert to turn on automatically when I enter a dangerous zone so that I can avoid accidents.
