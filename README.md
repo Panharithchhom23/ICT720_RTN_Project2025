@@ -33,7 +33,19 @@ This project aims to enhance workplace safety by integrating a Passive Infrared 
 ## Software Models
 
 ### System Diagram 
-![image](https://github.com/user-attachments/assets/0c9c5bcb-96dd-4ca3-88c7-c4d724aba9e6)
+![image](https://github.com/user-attachments/assets/0c9c5bcb-96dd-4ca3-88c7-c4d724aba9e6) 
+
+## The system consists of multiple interconnected components that work together to detect motion and provide alerts. The key components include:
+- ESP32-S3 (Main Controller): Acts as the central processing unit, receiving motion data from the PIR sensor and sending it to the appropriate alert mechanisms.
+- PIR Sensor (Motion Detection): Detects movement in the hazardous zone and sends a signal to the ESP32-S3.
+- Hazardous Zone (Safety Guard): The monitored area where worker movement is tracked to prevent accidents.
+- M5 Sticks (Data Processing): Processes motion data received from the ESP32-S3 and determines whether an alert should be triggered.
+- LED Alert (Visual Alert): A high-intensity LED that turns on when motion is detected, providing an immediate visual warning to workers and supervisors.
+- WiFi (Network Communication): Enables wireless connectivity for remote monitoring and alert notifications.
+- Telegram Alert: Sends a notification via Telegram to the safety manager for real-time hazard awareness.
+- Safety Manager: Receives alerts through Telegram and takes necessary action to ensure workplace safety.
+
+
 
 ### Sequence Diagram
 
