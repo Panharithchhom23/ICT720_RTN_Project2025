@@ -69,6 +69,8 @@ Link: https://docs.m5stack.com/en/hat/hat-pir
 ## Monitoring Alert
 https://github.com/user-attachments/assets/fcb31c3b-0d83-4a74-b675-5f2fbc80f5de
 
+![Screenshot 2025-03-25 165854](https://github.com/user-attachments/assets/938cb2b8-38c1-4703-9471-f6cf29da2572)
+
 ### Telegram Notification
 ![image](https://github.com/user-attachments/assets/9b5e1f3b-6392-4d6b-8ca6-88d50f97e9e5) 
 
