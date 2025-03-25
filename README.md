@@ -37,7 +37,7 @@ This project aims to enhance workplace safety by integrating a Passive Infrared 
 
 
 The system consists of multiple interconnected components that work together to detect motion and provide alerts. The key components include:
-- ESP32-S3 (Main Controller): Acts as the central processing unit, receiving motion data from the PIR sensor and sending it to the appropriate alert mechanisms.
+
 - PIR Sensor (Motion Detection): Detects movement in the hazardous zone and sends a signal to the ESP32-S3.
 - Hazardous Zone (Safety Guard): The monitored area where worker movement is tracked to prevent accidents.
 - M5 Sticks (Data Processing): Processes motion data received from the ESP32-S3 and determines whether an alert should be triggered.
