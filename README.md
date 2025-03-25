@@ -70,6 +70,10 @@ M5StickC ESP32-PICO Mini IoT Development Kit
 
 
 
+https://github.com/user-attachments/assets/fcb31c3b-0d83-4a74-b675-5f2fbc80f5de
+
+
+
 
 ## Monitoring Alert
 
