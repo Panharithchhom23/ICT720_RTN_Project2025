@@ -12,7 +12,7 @@ Workplace safety is a critical concern in industrial environments where heavy ma
 
 
 ## Objective
-This project aims to enhance workplace safety by integrating a Passive Infrared Sensor (PIR) motion sensor with a machine’s safety guard. If a worker enters the hazardous area, the system will send an alert to the worker and notify the supervisor and safety officer through the Telegram bot app. This proactive warning system helps prevent accidents by ensuring that workers remain aware of their proximity to dangerous zones. 
+This project aims to enhance workplace safety by integrating a Passive Infrared Sensor (PIR) motion sensor with a machine’s safety guard. If a worker enters the hazardous area, the system will send an alert to the worker and notify the supervisor and safety officer through the Telegram bot app. This proactive warning system helps prevent accidents by ensuring that workers remain aware of their proximity to dangerous zones.
 
 ## Stakeholder
 - Worker         : Employees who operate or work near the machine and are at risk of entering hazardous areas.
@@ -91,6 +91,12 @@ https://github.com/user-attachments/assets/14e72c6b-53b2-45a2-b5fb-a3ebaab5bc09
 ### Telegram Notification
 ![image](https://github.com/user-attachments/assets/9b5e1f3b-6392-4d6b-8ca6-88d50f97e9e5) 
 
+## Future Plan 
+- Implementing the system on the real machine where it can be turn on/off automatically when it detect motion
+- The user (supervisor) can manually check and controll the machine
+- Using AI models to enhacing the motion and differentiate between humans, animals, and objects to reduce false alarms.
+- Using AI model to Detect unusual behavior in motion patterns and machine operation.
+- Making AI to summarize the logs and suggest corrective actions.
 
 
 
