@@ -12,7 +12,7 @@ Workplace safety is a critical concern in industrial environments where heavy ma
 
 
 ## Objective
-This project aims to enhance workplace safety by integrating a Passive Infrared Sensor (PIR) motion sensor with a machine’s safety guard. If a worker enters the hazardous area, the system will trigger an LED alert, notifying both the worker and safety personnel. This proactive warning system helps prevent accidents by ensuring that workers remain aware of their proximity to dangerous zones. 
+This project aims to enhance workplace safety by integrating a Passive Infrared Sensor (PIR) motion sensor with a machine’s safety guard. If a worker enters the hazardous area, the system will send an alert to the worker and notify the supervisor and safety officer through the Telegram bot app. This proactive warning system helps prevent accidents by ensuring that workers remain aware of their proximity to dangerous zones. 
 
 ## Stakeholder
 - Worker         : Employees who operate or work near the machine and are at risk of entering hazardous areas.
