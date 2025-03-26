@@ -60,11 +60,11 @@ Link:  https://shop.m5stack.com/products/stick-c?variant=43982750843137
 # 2. M5StickC PIR Hat
 ![image](https://github.com/user-attachments/assets/5fd6d676-ee6e-4539-bf4b-e3fe0b94dc2f)
 
-PIR HAT is a human body infrared sensor compatible with M5SticKC. It is a passive infrared detector that detects infrared radiation emitted or reflected by a human body or objects. When it detects infrared radiation, it outputs a high level signal and initiates a delay for a certain period of time (during which it maintains a high level and allows for repeated triggering) until the triggering signal disappears (returns to a low level). 
+PIR HAT is a human body infrared sensor compatible with M5SticKC. It is a passive infrared detector that detects infrared radiation emitted or reflected by a human body or objects. When it detects infrared radiation, it outputs a high-level signal and initiates a delay for a certain period of time (during which it maintains a high level and allows for repeated triggering) until the triggering signal disappears (returns to a low level). 
 
 Link: https://docs.m5stack.com/en/hat/hat-pir
 
-### Data Modeling
+## Data Modeling
 ![image](https://github.com/user-attachments/assets/8cc97575-b6e0-4d2d-b1e2-fd4e018f42a0)
 
 
