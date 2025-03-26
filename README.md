@@ -37,12 +37,6 @@ As a safety officer who's in charge of the whole company safey, I want to monito
 - Visual Alert System: An LCD indicator turns RED and show word "NOT SAFE" when motion is detected in the hazardous zone and LCD screen turns GREEN and show word "SAFE" when motion is not detected.
 - Real-Time Monitoring: The system provides real-time data to safety officers for monitoring and analysis.
 
-## Software Models
-### System sequence
-![RTNsequence](https://github.com/user-attachments/assets/dd77087e-70ce-47b0-8862-6b0a0376bc90)
-![diagram-export-26-3-2568-10_28_51](https://github.com/user-attachments/assets/382d2757-a5b7-4ffd-97cc-876b0cd32fc3)
-![diagram-export-26-3-2568-10_26_47](https://github.com/user-attachments/assets/2e6aa642-d419-47ca-9fb1-3e12325182eb)
-
 ### System Diagram 
 ![image](https://github.com/user-attachments/assets/3ea5552b-59f4-4dc1-af64-419a87b9fac3)
 
@@ -56,6 +50,13 @@ The system consists of multiple interconnected components that work together to 
 - WiFi (Network Communication): Enables wireless connectivity for remote monitoring and alert notifications.
 - Telegram Alert: Sends a notification via Telegram to the safety manager for real-time hazard awareness.
 - Safety Manager: Receives alerts through Telegram and takes necessary action to ensure workplace safety.
+
+## Software Models
+### System sequence
+![RTNsequence](https://github.com/user-attachments/assets/dd77087e-70ce-47b0-8862-6b0a0376bc90)
+![diagram-export-26-3-2568-10_28_51](https://github.com/user-attachments/assets/382d2757-a5b7-4ffd-97cc-876b0cd32fc3)
+![diagram-export-26-3-2568-10_26_47](https://github.com/user-attachments/assets/2e6aa642-d419-47ca-9fb1-3e12325182eb)
+
 
 ### State Diagram
 ![RTNdiagram](https://github.com/user-attachments/assets/6f1ede64-35ee-46eb-bc7b-9f29360c616d)
