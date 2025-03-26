@@ -30,6 +30,8 @@ This project aims to enhance workplace safety by integrating a Passive Infrared 
 - Real-Time Monitoring: The system provides real-time data to safety officers for monitoring and analysis.
 
 ## Software Models
+###System sequence
+![RTNsequence](https://github.com/user-attachments/assets/dd77087e-70ce-47b0-8862-6b0a0376bc90)
 
 ### System Diagram 
 ![image](https://github.com/user-attachments/assets/3ea5552b-59f4-4dc1-af64-419a87b9fac3)
