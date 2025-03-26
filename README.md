@@ -72,7 +72,11 @@ Link: https://docs.m5stack.com/en/hat/hat-pir
 https://github.com/user-attachments/assets/fcb31c3b-0d83-4a74-b675-5f2fbc80f5de
 
 
-https://github.com/user-attachments/assets/52d7be1a-57f8-419c-befe-597c08805a76
+
+https://github.com/user-attachments/assets/14e72c6b-53b2-45a2-b5fb-a3ebaab5bc09
+
+
+
 
 
 
