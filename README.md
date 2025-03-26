@@ -27,7 +27,7 @@ As a worker, I want the alert to turn on automatically when I enter a dangerous 
 As a supervisor, I want to ensure my worker's safety and want a visual indicator to show when the machine is stopped so that I can quickly identify the issue.
 - Acceptance Critiria 1: The indicator will change its state from green to red and update accordingly to show if its safe or not.
 - Acceptance Critiria 2: The supervisor can watch the detection event by timestamp that being sent through telegram.
-# User Story 3 "As a Safety Officer"
+## User Story 3 "As a Safety Officer"
 As a safety officer who's in charge of the whole company safey, I want to monitor the machine in case of false trigger, so that I know whether the machine ready or not. 
 - Acceptance Critiria 1: The system will alert the officer and they can check the status through telegram bot app if there are any motion detected. 
 - Acceptance Critiria 2: The safety officer can review the detection history of the timestamps of the machine.
