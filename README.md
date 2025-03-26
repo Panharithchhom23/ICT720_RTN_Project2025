@@ -65,7 +65,7 @@ PIR HAT is a human body infrared sensor compatible with M5SticKC. It is a passiv
 Link: https://docs.m5stack.com/en/hat/hat-pir
 
 ### Data Modeling
-![image](https://github.com/user-attachments/assets/fefe4e16-a9e2-462b-9caf-dbe8ebac99f6)
+![image](https://github.com/user-attachments/assets/8cc97575-b6e0-4d2d-b1e2-fd4e018f42a0)
 
 
 ## Monitoring Alert
