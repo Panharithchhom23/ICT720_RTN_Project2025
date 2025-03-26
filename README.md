@@ -20,9 +20,17 @@ This project aims to enhance workplace safety by integrating a Passive Infrared 
 - Safety Officer : Monitors the overall safety system and responds to potential hazards or false alarms.
    
 ## User Stories (US)
-- US1: As a worker, I want the alert to turn on automatically when I enter a dangerous zone so that I can avoid accidents.
-- US2: As a supervisor, I want a visual indicator to show when the machine is stopped so that I can quickly identify the issue.
-- US3: As a safety officer, I want to monitor the machine in case of false trigger, so that I know whether the machine ready or not.
+## User Story 1 "As a woker"
+As a worker, I want the alert to turn on automatically when I enter a dangerous zone so that I can avoid accidents.
+- Acceptance Critiria: When the worker enter a dangerous zone, the sensor detect and then the visual indicator will change the state from green "Safe" to red "Not Safe".
+## User Story 2 "As a Supervisor" 
+As a supervisor, I want to ensure my worker's safety and want a visual indicator to show when the machine is stopped so that I can quickly identify the issue.
+- Acceptance Critiria 1: The indicator will change its state from green to red and update accordingly to show if its safe or not.
+- Acceptance Critiria 2: The supervisor can watch the detection event by timestamp that being sent through telegram.
+# User Story 3 "As a Safety Officer"
+As a safety officer who's in charge of the whole company safey, I want to monitor the machine in case of false trigger, so that I know whether the machine ready or not. 
+- Acceptance Critiria 1: The system will alert the officer and they can check the status through telegram bot app if there are any motion detected. 
+- Acceptance Critiria 2: The safety officer can review the detection history of the timestamps of the machine.
 
 ## Features
 - Motion Detection: The PIR sensor detects motion in the hazardous zone around the machine.
