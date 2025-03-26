@@ -38,7 +38,7 @@ As a safety officer who's in charge of the whole company safey, I want to monito
 - Real-Time Monitoring: The system provides real-time data to safety officers for monitoring and analysis.
 
 ## Software Models
-###System sequence
+### System sequence
 ![RTNsequence](https://github.com/user-attachments/assets/dd77087e-70ce-47b0-8862-6b0a0376bc90)
 
 ### System Diagram 
