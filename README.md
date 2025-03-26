@@ -45,7 +45,8 @@ The system consists of multiple interconnected components that work together to 
 - Telegram Alert: Sends a notification via Telegram to the safety manager for real-time hazard awareness.
 - Safety Manager: Receives alerts through Telegram and takes necessary action to ensure workplace safety.
 
-
+### State Diagram
+![RTNdiagram](https://github.com/user-attachments/assets/6f1ede64-35ee-46eb-bc7b-9f29360c616d)
 
 ### Hardware
 
