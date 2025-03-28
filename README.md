@@ -59,7 +59,8 @@ The system consists of multiple interconnected components that work together to 
 
 
 ### State Diagram
-![RTNdiagram](https://github.com/user-attachments/assets/6f1ede64-35ee-46eb-bc7b-9f29360c616d)
+![image](https://github.com/user-attachments/assets/966f2c7d-e183-4ed6-a2e6-1d22412cba8e)
+
 
 ### Hardware
 
